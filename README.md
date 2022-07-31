@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whiz0700
 - 👀 I’m interested in Game Cheating
-- 🌱 I’m currently learning C++
+- 🌱 I’m a C++ Developer
 - 💞️
 - 📫 My Discord is Whiz#0700
 
